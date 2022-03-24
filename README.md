@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kelsieliu
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on everyone who are learning python as well
+- 🌱 I’m currently learning google data analysis certificate :)
+- 💞️ I’m looking to collaborate on everyone who are learning data analysis as well
 - 📫 How to reach me, my email address is kelsieliuu@gmail.com
 
 <!---
